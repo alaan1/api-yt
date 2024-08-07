@@ -1,0 +1,4 @@
+pip3 inatall flask
+pip3 install requests
+pip3 install re
+gunicorn
